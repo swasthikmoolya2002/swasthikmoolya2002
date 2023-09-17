@@ -46,8 +46,8 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
   <a href="https://github.com/JoykishanSharma?tab=repositories">
-    <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&theme=algolia&count_private=true" />
+    <img width="500" height="auto" align="right" alt="Swasthik Moolya's github Stats" 
+         src="https://github-readme-stats.vercel.app/api?username=swasthikmoolya2002&show_icons=true&theme=algolia&count_private=true" />
    <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
@@ -85,7 +85,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 <h4 align="center"> Thanks for Visiting! :innocent:</h4>
 
-:star: From [JoykishanSharma](https://github.com/JoykishanSharma)
+:star: From [Swasthik Moolya](https://github.com/JoykishanSharma)
 
 
 <!-- Credit -->
