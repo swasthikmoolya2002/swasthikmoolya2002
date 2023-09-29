@@ -1,109 +1,56 @@
----
-title: SwasthikMoolya
-date: '14-03-2002'
-githubUsername: 'swasthikmoolya2002'
----
+<p align="center"> <img src="https://github.com/swasthikmoolya/swasthikmoolya/blob/main/Swasthik%20Moolya.gif" alt="crazychickendev" /> </p>
+<h1 align="left"> Hello, Guys </h1>
 
+```javascript
+const Swasthik Moolya = {
+    pronouns: "he" | "him",
+    location: ["Karnataka, India"],
+    contact: ["swasthikmoolya2002@gmail.com"],
+    portfolio: ["updating soon!!!"],
+    collaborations: ["IoT", "android open-source project", "python-programming", "cyber-security", 
+                    "C-programming","UI/UX designer","Ethical-Hacker","Front-End-Developer"],
+    workingOn: ["building a solid career in the cyber-security and Developing AOSP ROMs..."],
+    learning: ["front-End", "Cloud-Computing", "Test automation", "Machine-learning", "Kernels", "AOSP Builds", "CyberSecurity Analyst"],
+    askMeAbout: ["Side_hustle", "android rom development", "darknet diaries", "parrotOS", 
+                "tech", "cybersecurity", "NFTs", "music"],
+    hobbies: {
+        major: {
+            indoor: ["MusicMixing", "cooking","watching animes", "gaming","K-Drama"],
+	    outdoor: ["traveling", "BasketBall","Trekking","Motor-Ride"],
+        },
+        funFact: {
+            secret: ["I'm an introvert,but im crazy if you get to know me", "bitches XD"],
+        }        
+    }
+};
+```
 
-<!-- Greeting -->
-# Hey there! :wave::smiley:
+<p align="center"> <img src="  "/> </p>
 
-<!--Introduction -->
-I'm Swasthik Moolya! I'm a **Software Developer**:iphone:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**.
-<br>
-<img src="[https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.webp]" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+[![](https://holopin.me/swasthik_moolya)](https://holopin.io/@swasthik_moolya)
 
-<!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-swasthik-moolya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/swasthik-moolya-057b121b8/)
-[![Telegram](https://img.shields.io/badge/-@swasthik_moolya-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/swasthikaaa)
-[![HackerRank](https://img.shields.io/badge/-swasthik-moolya-islamicgreen?style=flat&logo=HackerRank&logoColor=black)]([https://www.hackerrank.com/swasthikmoolya14)
-[![Instagram](https://img.shields.io/badge/-swasthik_moolya-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/swasthik._.moolya)
-[![Gmail](https://img.shields.io/badge/-swasthik_moolya-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:swasthikmoolya14@gmail.com)
-
-<!-- Profile View Count -->
-![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
-[![Google Playstore](https://img.shields.io/badge/-Joy_Apps_Developers_Team-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN)
-
-<!-- Working GIF -->
-<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" height="250" />
-
-### 💼  Things that I'm currently working on: 
-* Learning Front-End Web:computer: Development
-* Learning some vectors drawing:art: by using Adobe Illustrator.
-* Looking forward to take a Flutter:calling: course in future.
-* 🔜
-
-### 🌱 Challenges that I’m currently challenging myself:
-Since the world is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
-
-* Learn to code:man_technologist: 3-4 hours a day with no distraction ( One or two day off a week. ) 
-* Read:newspaper: Dev and UI articles daily 
-* Workout:weight_lifting_man: 3 days in a row and take a day break 
-* Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
-* Adapting the minimalism life style
-* 🔜
-
- ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p> <!-- GitHub README Stats -->
-  <a href="https://github.com/JoykishanSharma?tab=repositories">
-    <img width="500" height="auto" align="right" alt="Swasthik Moolya's github Stats" 
-         src="https://github-readme-stats.vercel.app/api?username=swasthikmoolya2002&show_icons=true&theme=algolia&count_private=true" />
-   <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
-  </a>
- <!-- icons -->
-<code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></a></code>
-<code><a href = "https://developer.android.com/studio"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png" alt="Android Studio"></a></code>
-<code><img height="40" src="https://image.flaticon.com/icons/svg/2306/2306209.svg" alt="XML"></code>
-<code><a href = "https://www.android.com/intl/en_in/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android"></a></code>
-<br>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
-<code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
-<code><a href = "http://brackets.io/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1024px-Brackets_Icon.svg.png"></a></code>
-<br>
-<code><a href = "https://unity.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></a></code>
-<code><a href = "https://docs.microsoft.com/en-us/dotnet/csharp/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></a></code>
-<code><a href = "https://www.jetbrains.com/rider/"><img height="40" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png"></a></code>
-<br>
-<code><a href = "https://www.json.org/json-en.html"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></a></code>
-<code><a href = "https://www.w3schools.com/sql/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a></code>
-<code><a href = "https://firebase.google.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></a></code>
-<br>
-<code><a href = "https://www.gnu.org/software/bash/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></a></code>
-<code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
-<code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
-<code><a href = "https://www.jetbrains.com/pycharm/"><img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></a></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C Language"></code>
-<br>
-<code><a href = "https://inkscape.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/1024px-Inkscape_Logo.svg.png"></a></code>
-<code><a href = "https://www.adobe.com/in/products/illustrator.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
-
+<p align="left"> <img src="https://github.com/swasthikmoolya/swasthikmoolya/blob/main/20230423_113444_0000.png" height="250" width="250"/> </p>
+<h2 align="center">Skill-Stack:</h2>
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-ffb400?style=flat-square&logo=python&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-ffb400?style=flat-square&logo=php&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffb400?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-ffb400?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-ffb400?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-ffb400?style=flat-square&logo=git&logoColor=white" />
+  
 </p>
 
-<h4 align="center"> Thanks for Visiting! :innocent:</h4>
+<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=swasthikmoolya&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="swasthikmoolya"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swasthikmoolya&layout=compact&show_icons=true&bg_color=0,EFE4CA,F4DDA6,F6C03D&theme=graywhite&hide_title=true" alt="swasthikmoolya"/> </p>
+<h3 align="center">I'm currently vibing to 🎧</h3>
 
-:star: From [Swasthik Moolya](https://github.com/JoykishanSharma)
+[![](https://spotify-github-profile.vercel.app/api/view?uid=31ce3h4mkhuwk644mqejouszmzpe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ce3h4mkhuwk644mqejouszmzpe&count=6" alt="spotify" height="400px"/>
 
-
-<!-- Credit -->
-### Credit to 
-- [**GIPHY**](https://giphy.com/) for GIFs. 
-
-
-<!--
-**JoykishanSharma/JoykishanSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+<h2 align="center">Let's Connect :coffee:</h2></a>
+<p align="center">
+	<a href="https://github.com/swasthikmoolya"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/swasthik-moolya-057b121b8/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/swasthik._.moolya"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+        <a href="https://wa.me/918050396640"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Whatsapp"/></a>
+</p>
