@@ -42,11 +42,8 @@ const Swasthik Moolya = {
 </p>
 
 <p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?[![Swasthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=swasthikmoolya2002)](https://github.com/swasthikmoolya2002/github-readme-stats) </p>
-<h3 align="center">I'm currently vibing to 🎧</h3>
+<h3 align="center">>
 
-[![](https://spotify-github-profile.vercel.app/api/view?uid=31ce3h4mkhuwk644mqejouszmzpe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ce3h4mkhuwk644mqejouszmzpe&count=6" alt="spotify" height="400px"/>
-
- 
 <h2 align="center">Let's Connect :coffee:</h2></a>
 <p align="center">
 	<a href="https://github.com/swasthikmoolya2002"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
