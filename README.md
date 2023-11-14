@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/swasthikmoolya2002/swasthikmoolya2002/blob/main/1_cOsLU-tXyR20A5KMXQKhmg.gif" alt="crazychickendev" /> </p>
+<p align="center"> <img src="https://github.com/swasthikmoolya2002/swasthikmoolya2002/main/1_cOsLU-tXyR20A5KMXQKhmg.gif" alt="crazychickendev" /> </p>
 <h1 align="left"> Hello, Guys </h1>
 
 ```javascript
