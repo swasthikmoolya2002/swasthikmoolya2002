@@ -19,7 +19,7 @@ const Swasthik Moolya = {
 	    outdoor: ["traveling", "BasketBall","Trekking","Motor-Ride"],
         },
         funFact: {
-            secret: ["I'm an introvert,but im crazy if you get to know me", "bitches XD"],
+            secret: ["I'm an introvert,but im crazy if you get to know me","XD"],
         }        
     }
 };
