@@ -1,38 +1,61 @@
-<h1 align="center">Hi Folks👋, I'm Swasthik Moolya</h1>
-<h3 align="center">A passionate UI/UX designer</h3>
+<!--<p align="center"> <img src="#" /> </p>
+<p align="center"> <img src="#" /> </p>-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swasthikmoolya2002" alt="swasthikmoolya2002" /></a> </p>
+<p align="center"> <img src="https://github.com/swasthikmoolya/swasthikmoolya/blob/main/Swasthik%20Moolya.gif" alt="crazychickendev" /> </p>
+<h1 align="left"> Hello, Guys </h1>
 
-- 🔭 I’m currently working on **Dangerous Road Curvature Detection using Edge device**
+```javascript
+const Swasthik Moolya = {
+    pronouns: "he" | "him",
+    location: ["Karnataka, India"],
+    contact: ["swasthikmoolya14@gmail.com"],
+    portfolio: ["updating soon!!!"],
+    collaborations: ["IoT", "android open-source project", "python-programming", "cyber-security", 
+                    "C-programming","UI/UX designer","Ethical-Hacker","Android-Application-Developer"],
+    workingOn: ["building a solid career in the cyber-security and Developing Android Apps..."],
+    learning: ["front-End", "Cloud-Computing", "Test automation", "Machine-learning"],
+    askMeAbout: ["Side_hustle", "android rom development", "darknet diaries", "parrotOS", 
+                "tech", "cybersecurity", "NFTs", "music"],
+    hobbies: {
+        major: {
+            indoor: ["MusicMixing", "cooking","watching animes", "gaming","K-Drama"],
+	    outdoor: ["traveling", "BasketBal","Trekking","Motor-Ride"],
+        },
+        funFact: {
+            secret: ["I'm an introvert,but im crazy if you get to know me", "bitches XD"],
+        }        
+    }
+};
+```
 
-- 🌱 I’m currently learning **Robotic Process Automation, Chat Automation and RASA Framework**
+<p align="center"> <img src="  "/> </p>
 
-- 👯 I’m looking to collaborate on **UI/UX designing projects**
+[![](https://holopin.me/swasthik_moolya)](https://holopin.io/@swasthik_moolya)
 
-- 👨‍💻 All of my projects are available at [https://github.com/swasthikmoolya2002/swasthikmoolya2002](https://github.com/swasthikmoolya2002/swasthikmoolya2002)
-
-- 📝 I regularly write articles on [connectwithspiritual.blogspot.com](connectwithspiritual.blogspot.com)
-
-- 💬 Ask me about **Android 14, User Experience Design, User interface, Wireframes, StoryBoard**
-
-- 📫 How to reach me **swasthikmoolya2002@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/swasthik-moolya-057b121b8/](https://www.linkedin.com/in/swasthik-moolya-057b121b8/)
-
-- ⚡ Fun fact **There are 4 types of introvert, I'm one of 'em**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/swasthik moolya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swasthik moolya" height="30" width="40" /></a>
-<a href="https://instagram.com/swasthik.moolya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swasthik.moolya" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/swasthikmooly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="swasthikmooly" height="30" width="40" /></a>
+<p align="left"> <img src="https://github.com/swasthikmoolya2002/swasthikmoolya2002/blob/main/20230423_113444_0000.png" height="250" width="250"/> </p>
+<h2 align="center">Skill-Stack:</h2>
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-ffb400?style=flat-square&logo=python&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-ffb400?style=flat-square&logo=php&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffb400?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-ffb400?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-ffb400?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-ffb400?style=flat-square&logo=git&logoColor=white" />
+  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swasthikmoolya2002&show_icons=true&locale=en&layout=compact" alt="swasthikmoolya2002" /></p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=swasthikmoolya2002&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="swasthikmoolya2002"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swasthikmoolya2002&layout=compact&show_icons=true&bg_color=0,EFE4CA,F4DDA6,F6C03D&theme=graywhite&hide_title=true" alt="swasthikmoolya2002"/> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swasthikmoolya2002&show_icons=true&locale=en" alt="swasthikmoolya2002" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swasthikmoolya2002&" alt="swasthikmoolya2002" /></p>
+
+ 
+<h2 align="center">Let's Connect :coffee:</h2></a>
+<p align="center">
+	<a href="https://github.com/swasthikmoolya"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/swasthik-moolya-057b121b8/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/swasthik.moolya"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+        <a href="https://wa.me/918050396640"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Whatsapp"/></a>
+</p>
