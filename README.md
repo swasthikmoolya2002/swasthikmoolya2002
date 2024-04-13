@@ -1,8 +1,8 @@
 <!--<p align="center"> <img src="#" /> </p>
 <p align="center"> <img src="#" /> </p>-->
 
-<p align="center"> <img src="https://github.com/swasthikmoolya/swasthikmoolya/blob/main/Swasthik%20Moolya.gif" alt="crazychickendev" /> </p>
 <h1 align="left"> Hello, Guys </h1>
+<p align="right"> <img src="https://img.etimg.com/thumb/width-300,height-300,imgsize-638053,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="crazychickendev" /> </p>
 
 ```javascript
 const Swasthik Moolya = {
@@ -11,8 +11,8 @@ const Swasthik Moolya = {
     contact: ["swasthikmoolya14@gmail.com"],
     portfolio: ["updating soon!!!"],
     collaborations: ["IoT", "android open-source project", "python-programming", "cyber-security", 
-                    "C-programming","UI/UX designer","Ethical-Hacker","Android-Application-Developer"],
-    workingOn: ["building a solid career in the cyber-security and Developing Android Apps..."],
+                    "C-programming","UI/UX designer","Ethical-Hacker","Software Developer"],
+    workingOn: ["building a solid career in the cyber-security and Developing Software for industries..."],
     learning: ["front-End", "Cloud-Computing", "Test automation", "Machine-learning"],
     askMeAbout: ["Side_hustle", "android rom development", "darknet diaries", "parrotOS", 
                 "tech", "cybersecurity", "NFTs", "music"],
